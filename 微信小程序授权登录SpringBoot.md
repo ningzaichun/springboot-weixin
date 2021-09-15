@@ -109,7 +109,7 @@ wx.getUserInfo({
 
 打印出来是这样的一些数据。
 
-![image-20210914210813613](https://gitee.com/crushlxb/typora/raw/master/img/image-20210914210813613.png)
+![image-20210915104220420](https://gitee.com/crushlxb/typora/raw/master/img/image-20210915104220420.png)
 
 我们需要保存的是
 
