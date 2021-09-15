@@ -46,7 +46,7 @@
 3. 后端发送请求后获取到的返回信息：
 
    ```cmd
-   {"session_key":"G59Evf\/Em54X6WsFsrpA1g==","openid":"o2ttv5L2yufc4-VoSPhTyUnToY60"}
+   {"session_key":"...","openid":"o25L2...."}
    ```
 
 4. 按照官方文档所讲：自定义登录态与`openid和session_key`关联，有很多方式可以实现的，如：
