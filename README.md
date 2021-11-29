@@ -5,8 +5,11 @@ CSDN :https://blog.csdn.net/weixin_45821811/article/details/120302595
 掘金：https://juejin.cn/post/7008030676523941901/
 
 # 联系
-存有疑惑，请联系：
+如果代码中存在问题亦或者存有疑惑再或者是不懂，请及时评论、留言。
+
+如果比较着急，请直接联系：
 邮箱：nzc_wyh@163.com
+
 看到都会尽快回复
 
 # 介绍
